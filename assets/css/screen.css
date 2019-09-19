@@ -1299,11 +1299,11 @@ mark,
 .share-item.facebook:hover a {
   background-color: #3B5998;
 }
-.share-item.google-plus span {
+.share-item.reddit span {
   font-size: 1.8rem;
 }
-.share-item.google-plus:hover a {
-  background-color: #DC4E41;
+.share-item.reddit:hover a {
+  background-color: #FF5700;
 }
 
 .social-navigation ul {
@@ -1367,10 +1367,10 @@ mark,
 .social-navigation a[href*="twitter.com"]:hover {
   background-color: #55ACEE;
 }
-.social-navigation a[href*="rss"]:before {
+.social-navigation a[href*="reddit"]:before {
   content: "";
 }
-.social-navigation a[href*="rss"]:hover {
+.social-navigation a[href*="reddit"]:hover {
   background-color: #F26522;
 }
 
