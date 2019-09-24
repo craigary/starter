@@ -876,7 +876,7 @@ img {
 
 a {
   color: #0081EF;
-  font-weight: 600;
+  font-weight: 400;
   text-decoration: none;
   -webkit-transition: color .5s;
   transition: color .5s;
@@ -1427,7 +1427,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 2.4rem 0;
   color: #283037;
   font-family: 'Titillium Web', "Athiti", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   text-transform: capitalize;
 }
 
@@ -1686,9 +1686,6 @@ h1:hover a, h2:hover a, h3:hover a, h4:hover a, h5:hover a, h6:hover a {
 }
 .post-header-featured .post-title {
   max-width: 88%;
-}
-.post-title a{
-  font-weight: 300
 }
 .post-header-featured .featured-label {
   width: 3rem;
